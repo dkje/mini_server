@@ -1,5 +1,5 @@
 {
-    "mainBannerList": [
+    "MainBannerList": [
         {
             "location": "서울특별시 종로구 돈화문로9길 37(낙원동)",
             "title": "야외풀 독채 펜션",
@@ -31,7 +31,7 @@
             "imgURL": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         }
     ],
-    "featureList": [
+    "FeatureList": [
         {
             "ownerName": "Robert Downey Jr",
             "ownerPic": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=80",
@@ -122,6 +122,48 @@
             "bath": "깨끗해요",
             "car": "주차 가능",
             "photo": "https://images.unsplash.com/photo-1527359443443-84a48aec73d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+        }
+    ],
+    "CultureList": [
+        {
+            "img": "https://images.unsplash.com/photo-1505932794465-147d1f1b2c97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "title": "헤나 체험하기",
+            "text": "친환경 물감으로 몸에 해롭지 않은 비영구 타투 클래스입니다"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1508642207-7048c482ba7e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "title": "전통 춤 배우기",
+            "text": "무료로 대여해주는 전통 복장을 입고 스페인 춤을 배우는 클래스입니다"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1491383294311-b702fff30fc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "title": "전문가와 함께 미술관 관람",
+            "text": "개인 큐레이터와 함께 미술품을 관람하는 클래스"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1552270776-6064cad073a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "title": "몸에 해롭지 않은 기호 식품",
+            "text": "천연 재료로 인체해 무해한 담배를 직접 만들어보는 클래스"
+        }
+    ],
+    "GuideList": [
+        {
+            "img": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "title": "백팩커를 위한 유럽 여행",
+            "location": "UK, London",
+            "duration": "7days"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1515443961218-a51367888e4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "title": "현지 맛집을 찾아 스페인으로",
+            "location": "Spain, Guatemala",
+            "duration": "3days"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1533682805518-48d1f5b8cd3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "title": "인생 야경 사진을 남기는 홍콩 여행",
+            "location": "Central, Hong Kong",
+            "duration": "2days"
         }
     ]
 }

@@ -89,9 +89,9 @@
             "car": 0
         }
     ],
-    "SearchResultList": [
+    "ReviewList": [
         {
-            "title": "모던 게스트 하우스",
+            "title": "즐거운 시간을 보냈습니다",
             "star": 4.2,
             "location": "충청북도 청주시 상당구 미원면",
             "text": "걱정도 별 불러 사람들의 많은 강아지, 패, 된 없이 있습니다. 별 파란 언덕 동경과 토끼, 위에도 버리었습니다. 봄이 쉬이 남은 거외다. 못 잔디가 쉬이 듯합니다. 자랑처럼 마디씩 너무나 듯합니다. 슬퍼하는 나는 나는 나의 이 비둘기, 이름을 가을로 멀리 봅니다.",
@@ -102,7 +102,7 @@
             "photo": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         },
         {
-            "title": "밤하늘 펜션",
+            "title": "하루 더 머무르고 싶었어요",
             "star": 3.5,
             "location": "전라북도 부안군 변산면 궁항영상길",
             "text": "피어나듯이 같이 별 프랑시스 시인의 있습니다. 사람들의 많은 헤일 이름자를 어머니, 가을로 아이들의 버리었습니다. 이국 많은 옥 거외다. 별이 별 밤이 마리아 멀듯이, 너무나 듯합니다. 계절이 프랑시스 이웃 소학교 풀이 비둘기, 우는 별을 하나에 봅니다.",
@@ -113,7 +113,7 @@
             "photo": "https://images.unsplash.com/photo-1519671619280-fd2b53b38ec2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         },
         {
-            "title": "꿈하늘 구름 펜션",
+            "title": "가족들과 함께 보내기 좋은 곳",
             "star": 4.6,
             "location": "인천광역시 중구 용유서로 518",
             "text": "당신은 시인의 한 못 덮어 위에 우는 멀리 사랑과 버리었습니다. 노새, 별들을 둘 쉬이 밤을 불러 봅니다. 릴케 슬퍼하는 이제 봅니다. 하나에 별 별에도 했던 봅니다. 가득 써 쓸쓸함과 헤는 파란 다하지 까닭입니다. 별 이제 하나에 헤일 별 위에 가을 써 거외다.",
@@ -164,41 +164,6 @@
             "title": "인생 야경 사진을 남기는 홍콩 여행",
             "location": "Central, Hong Kong",
             "duration": "2days"
-        }
-    ],
-    "ReviewList": [
-        {
-            "title": "즐거운 시간을 보냈습니다",
-            "star": 4.2,
-            "location": "충청북도 청주시 상당구 미원면",
-            "text": "걱정도 별 불러 사람들의 많은 강아지, 패, 된 없이 있습니다. 별 파란 언덕 동경과 토끼, 위에도 버리었습니다. 봄이 쉬이 남은 거외다. 못 잔디가 쉬이 듯합니다. 자랑처럼 마디씩 너무나 듯합니다. 슬퍼하는 나는 나는 나의 이 비둘기, 이름을 가을로 멀리 봅니다.",
-            "size": "적당해요",
-            "bed": "푹신해요",
-            "bath": "깨끗해요",
-            "car": "주차 불가",
-            "photo": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-        },
-        {
-            "title": "하루 더 머무르고 싶었어요",
-            "star": 3.5,
-            "location": "전라북도 부안군 변산면 궁항영상길",
-            "text": "피어나듯이 같이 별 프랑시스 시인의 있습니다. 사람들의 많은 헤일 이름자를 어머니, 가을로 아이들의 버리었습니다. 이국 많은 옥 거외다. 별이 별 밤이 마리아 멀듯이, 너무나 듯합니다. 계절이 프랑시스 이웃 소학교 풀이 비둘기, 우는 별을 하나에 봅니다.",
-            "size": "좁아요",
-            "bed": "푹신해요",
-            "bath": "깨끗해요",
-            "car": "주차 가능",
-            "photo": "https://images.unsplash.com/photo-1519671619280-fd2b53b38ec2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-        },
-        {
-            "title": "가족들과 함께 보내기 좋은 곳",
-            "star": 4.6,
-            "location": "인천광역시 중구 용유서로 518",
-            "text": "당신은 시인의 한 못 덮어 위에 우는 멀리 사랑과 버리었습니다. 노새, 별들을 둘 쉬이 밤을 불러 봅니다. 릴케 슬퍼하는 이제 봅니다. 하나에 별 별에도 했던 봅니다. 가득 써 쓸쓸함과 헤는 파란 다하지 까닭입니다. 별 이제 하나에 헤일 별 위에 가을 써 거외다.",
-            "size": "넓어요",
-            "bed": "푹신해요",
-            "bath": "깨끗해요",
-            "car": "주차 가능",
-            "photo": "https://images.unsplash.com/photo-1527359443443-84a48aec73d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         }
     ]
 }

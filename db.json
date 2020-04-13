@@ -166,5 +166,5 @@
             "duration": "2days"
         }
     ],
-    "test": [{ "text": "ttt" }]
+    "SearchResultList": [{ "title": "ttt", "img": "test", "star": 2 }]
 }
